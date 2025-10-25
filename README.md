@@ -7,8 +7,8 @@
 💡 Exploring new technologies & building scalable web apps.  
 💻 Skilled in **React, Next.js, Java Spring Boot, Docker, Kubernetes, MySQL**.  
 🧠 Learning **WebAssembly (Wasm)** and **Microservices Architecture**.  
-📫 Reach me at **[your email or LinkedIn link]**.
-
+📫 Reach me at-- **https://www.linkedin.com/in/anshul-kumar-sen-5a74b9331/**.
+              --**anshulkumarsen**
 ---
 
 ### 🛠️ Tech Stack
@@ -29,8 +29,8 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/anshul-kumar-sen-5a74b9331/)" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:anshulkumarsen"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
