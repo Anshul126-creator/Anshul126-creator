@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anshul</h1>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
-<!--
-**Anshul126-creator/Anshul126-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+💡 Exploring new technologies & building scalable web apps.  
+💻 Skilled in **React, Next.js, Java Spring Boot, Docker, Kubernetes, MySQL**.  
+🧠 Learning **WebAssembly (Wasm)** and **Microservices Architecture**.  
+📫 Reach me at **[your email or LinkedIn link]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,java,spring,docker,kubernetes,postgres,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+### 🧩 Fun Quote
+> "Code. Sleep. Repeat. 🚀"
