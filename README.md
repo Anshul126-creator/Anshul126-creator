@@ -8,12 +8,12 @@
 💻 Skilled in **React, Next.js, Java Spring Boot, Docker, Kubernetes, MySQL**.  
 🧠 Learning *Ethical Hacking*,*Data science and Machine Learning* also focused on WASM and Microservice Architectures  
 📫 Reach me at-- **https://www.linkedin.com/in/anshul-kumar-sen-5a74b9331/**.
-              --**anshulkumarsen@gmail.com**
+              --**anshulkumarsen4@gmail.com**
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,java,spring,docker,kubernetes,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,java,spring,docker,kubernetes,postgres,git,github,vscode," />
 </p>
 
 ---
@@ -29,8 +29,8 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/anshul-kumar-sen-5a74b9331/)" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:anshulkumarsen"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href ="https://www.linkedin.com/in/anshul-kumar-sen-5a74b9331/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:anshulkumarsen4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
