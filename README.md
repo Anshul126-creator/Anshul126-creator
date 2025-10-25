@@ -6,9 +6,9 @@
 ### 🚀 About Me
 💡 Exploring new technologies & building scalable web apps.  
 💻 Skilled in **React, Next.js, Java Spring Boot, Docker, Kubernetes, MySQL**.  
-🧠 Learning **WebAssembly (Wasm)** and **Microservices Architecture**.  
+🧠 Learning *Ethical Hacking*,*Data science and Machine Learning* also focused on WASM and Microservice Architectures  
 📫 Reach me at-- **https://www.linkedin.com/in/anshul-kumar-sen-5a74b9331/**.
-              --**anshulkumarsen**
+              --**anshulkumarsen@gmail.com**
 ---
 
 ### 🛠️ Tech Stack
