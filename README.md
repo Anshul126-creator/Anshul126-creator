@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate FullStack and Devops Developer from India </h3>
 
 ---
 
@@ -35,5 +35,3 @@
 
 ---
 
-### 🧩 Fun Quote
-> "Code. Sleep. Repeat. 🚀"
